@@ -1,2 +1,2 @@
 # Instagram-Bot
-- A simple progam to control Instergram with Chrome
+- A simple progam to control Instargram with Chrome
